@@ -26,7 +26,7 @@ const projects = [
       'Our revolutionary PaisaNow is a marketplace application that ensures a complete phygital platform. It streamlines onboarding processes, verification, and application through a distributed ledger based on blockchain technology, ensuring security and efficiency in the lending process',
     stack: ['React', 'Javascript', 'Php'],
     sourceCode: '',
-    livePreview: 'https://getitnow.digital/',
+    livePreview: 'https://kapiital.com/index.php/paisanow-landing/',
   },
   {
     name: 'Square Now',
